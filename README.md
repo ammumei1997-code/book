@@ -1,4 +1,4 @@
-im the 1st one to read this repo linisha
+im the 1st one to read this repo linisha dasan
 # The Rust Programming Language
 
 ![Build Status](https://github.com/rust-lang/book/workflows/CI/badge.svg)
